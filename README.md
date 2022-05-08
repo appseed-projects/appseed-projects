@@ -4,23 +4,32 @@
 
 <br />
 
-> Our users: 
+> `Version` **v0.0.8** - Full [CHANGELOG](https://github.com/app-generator/app-generator/blob/master/CHANGELOG.md)
 
-- **4k+ Registered Developers** - use our tested UI-Ready starters to code faster their products
-- **Partners** that use our technology: [Creative-Tim](https://appseed.us/agency/creative-tim), [CodedThemes](https://appseed.us/agency/codedthemes), [Themesberg](https://appseed.us/agency/themesberg), [BootstrapDash](https://appseed.us/agency/bootstrapdash).
+- Integrated UI Kits
+  - [Datta Able](https://appseed.us/generator/datta-able/)
+  - [Volt Dashboard](https://appseed.us/generator/volt-dashboard/)
+  - [Soft UI Design](https://appseed.us/generator/soft-ui-dashboard/)
+  - [AdminLTE](https://appseed.us/generator/adminlte/)
+- Frameworks:
+  - `Flask` 
+  - `Django`
+- Latest Generated Products:
+  - **[Flask Datta Able](https://github.com/appseed-projects/b830e9ba-c70d-4514-b01c-3b09e5533e95)** - `MySql` Persistence, `Docker`
+  - **[Flask AdminLTE](https://github.com/appseed-projects/df983459-ae8e-424b-b04b-30f9af8f597a)** - `Docker`, `No Database`  
 
 <br />
 
-![AppSeed - App Generator for Flask, Django, React and Vue starters](https://user-images.githubusercontent.com/51070104/167167545-cdb674ca-4f69-4abb-a721-3b6da72669c8.png)
+![AppSeed - App Generator for Flask, Django, React and Vue starters](https://user-images.githubusercontent.com/51070104/167298122-83503a82-2f16-409b-bb2f-da6c550d48bb.gif)
 
 <br />
 
 ## Services and Products
 
-- Visual [App Generator](https://appseed.us/app-generator) generates React, Vue full-stack web apps in minutes.
+- Visual [App Generator](https://appseed.us/generator/) generates React, Vue full-stack web apps in minutes.
 - Pre-Built Web Apps: **admin dashboards**, **JAMstack starters**, **SSG Starters**
 - Support via Github (issues tracker) and eMail < **support@appseed.us** >
-- **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup) - 800+ community
+- **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup) - 1k+ community
 
 <br />
 
